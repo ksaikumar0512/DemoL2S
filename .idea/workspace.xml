@@ -4,16 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1da1d84-254c-4f9b-9aad-bc99c6bc411a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/A.txt" afterDir="false" />
+    <list default="true" id="b1da1d84-254c-4f9b-9aad-bc99c6bc411a" name="Default Changelist" comment="Added E.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoL2S.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JacksionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="br_portal" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1vTAQtMQXfmx9KTgpwfSMORXYOO" />
   <component name="ProjectViewState">
@@ -23,7 +43,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitTest\DemoL2S" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1626575694396</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added D.txt">
+      <created>1680148458923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680148458923</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -47,5 +81,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added D.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added D.txt" />
   </component>
 </project>
