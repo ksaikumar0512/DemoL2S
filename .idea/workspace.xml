@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1da1d84-254c-4f9b-9aad-bc99c6bc411a" name="Default Changelist" comment="Added D.txt">
-      <change afterPath="$PROJECT_DIR$/E.txt" afterDir="false" />
+    <list default="true" id="b1da1d84-254c-4f9b-9aad-bc99c6bc411a" name="Default Changelist" comment="Added E.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoL2S.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/F.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JacksionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
